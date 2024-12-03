@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de prueba del curso de Henry 
+ESTE PROYECTO ES UN PRUEBA DE COMO CLONAR UN REPOSITORIO EN GIT HUB Y CLONARLO 
